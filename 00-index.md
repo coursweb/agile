@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feedback
+title: Méthodes Agiles
 permalink: index.html
 ---
 

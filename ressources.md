@@ -10,7 +10,9 @@ Un livre "classique" sur l'animation de séances, écrit par Esther Derby et Dia
 
 Derby, E. & Larsen, D. (2006). *Agile Retrospectives: Making Good Teams Great*. The Pragmatic Bookshelf.
 
+#### Autour de ce livre
 
+Un [épisode de podcast](https://www.infoq.com/podcasts/agile-retrospectives-making-good-teams/) de septembre 2021 donne un éclairage sur ce livre 15 ans après sa publication (une nouvelle édition est en préparation). Les auteurs révèlent que leur véritable focus est l'apprentissage: "how to people learn in groups"? Le résultat d'une rétrospective n'est pas forcément l'action, mais avant tout l'apprentissage.
 
 ### Liberating Structures
 
