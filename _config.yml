@@ -1,0 +1,20 @@
+remote_theme: coursweb/jk-theme
+title: Méthodes Agiles
+description: Documentation sur les méthodes agiles dans l'enseignement
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+ - title: Feedback
+   url: https://cours-web.ch/feedback/
+ - title: Créativité
+   url: https://cours-web.ch/crea/
+ - title: Méthodes Agiles
+   url: https://cours-web.ch/agile/
+
+   # Footer content
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2022</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/agile">Lien Github</a></li></ul>
