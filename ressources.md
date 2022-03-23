@@ -10,7 +10,9 @@ Un livre "classique" sur l'animation de séances, écrit par Esther Derby et Dia
 
 Derby, E. & Larsen, D. (2006). *Agile Retrospectives: Making Good Teams Great*. The Pragmatic Bookshelf.
 
-### Liberating Structures
+
+
+### Liberating Structures
 
 Les "Liberating Structures" sont un ensemble de 33 "formats" pour animer des séances de groupe, workshops, meetings. Elles sont présentées dans un livre:
 
