@@ -12,7 +12,9 @@ Derby, E. & Larsen, D. (2006). *Agile Retrospectives: Making Good Teams Great*. 
 
 #### Autour de ce livre
 
-Un [épisode de podcast](https://www.infoq.com/podcasts/agile-retrospectives-making-good-teams/) de septembre 2021 donne un éclairage sur ce livre 15 ans après sa publication (une nouvelle édition est en préparation). Les auteurs révèlent que leur véritable focus est l'apprentissage: "how to people learn in groups"? Le résultat d'une rétrospective n'est pas forcément l'action, mais avant tout l'apprentissage.
+Un [épisode de podcast](https://www.infoq.com/podcasts/agile-retrospectives-making-good-teams/) de septembre 2021, avec les auteurs, donne un éclairage sur ce livre 15 ans après sa publication (une nouvelle édition est en préparation). Les auteurs révèlent que leur véritable focus est l'apprentissage: "how to people learn in groups"? Le résultat d'une rétrospective n'est pas forcément l'action, mais avant tout l'apprentissage.
+
+L'épisode 8 du podcast *Agile Coaches’ Corner*, "[Creating Effective Retrospectives](https://agilethought.com/agile-podcast/podcast-ep-8-creating-effective-retrospectives/)", est une discussion et partage d'expérience sur l'animation de rétrospectives en suivant la structure proposée par le libre de Derby & Larsen.
 
 ### Liberating Structures
 
