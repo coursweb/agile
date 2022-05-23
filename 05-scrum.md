@@ -22,17 +22,17 @@ Voici une petite liste des éléments constitutifs de scrum:
 
 ### Evénements
 
+Scrum s'appuie sur le découpage d'un projet en « unités de temps », nommées *sprints*. Les *sprints* peuvent durer entre quelques heures et un mois (avec un *sprint* médian à deux semaines). Chaque *sprint* commence par une estimation suivie d'une planification opérationnelle (Sprint Planning). Le *sprint* se termine par une démonstration de ce qui a été achevé (Sprint Review). 
+
+Avant de démarrer un nouveau sprint, l'équipe réalise une **rétrospective**. Cette technique analyse le déroulement du *sprint* achevé, afin d'améliorer ses pratiques.
+
 Les événements prescrits par Scrum:
 
 1. *Sprint* : unité de temps. Nom d'une itération dans Scrum. Cette itération dure 1 mois maximum en théorie, mais en pratique entre 2 et 4 semaines. 
 2. *Sprint Planning* : Réunion de planification de sprint.
 3. *Daily Scrum* : Réunion quotidienne de quinze minutes maximum pour faire le point sur ce qui a été fait depuis la dernière mêlée, ce qu'il est prévu de faire jusqu'à la prochaine et quels sont les obstacles rencontrés durant le travail.
-4. *Sprint Review* : Séance de démonstration du résultat. Sont présents à cette réunion le Product Owner, les membres de l’Equipe, le Scrum Master, ainsi que les clients, utilisateurs, parties prenantes, experts, décideurs, et toute autre personne intéressée. C'est une activité d’inspection et d’adaptation pour le produit.
-5. *Sprint Retrospective* : Séance rétrospective pour l'amélioration des pratiques de l'équipe. Permet d’inspecter et d’adapter le processus et l’environnement. C’est l’opportunité pour l’Equipe d’échanger sur ce qui fonctionne bien et sur ce qui ne fonctionne pas, et de s’accorder sur des changements à expérimenter. Peut prendre de nombreux formats, y compris "célébrer" (petite fête, repas).
-
-Scrum s'appuie sur le découpage d'un projet en « unités de temps », nommées *sprints*. Les *sprints* peuvent durer entre quelques heures et un mois (avec un *sprint* médian à deux semaines). Chaque *sprint* commence par une estimation suivie d'une planification opérationnelle. Le *sprint* se termine par une démonstration de ce qui a été achevé. 
-
-Avant de démarrer un nouveau sprint, l'équipe réalise une **rétrospective**. Cette technique analyse le déroulement du *sprint* achevé, afin d'améliorer ses pratiques.
+4. *Sprint Review* : Séance de démonstration du résultat. Sont présents à cette réunion le Product Owner, les membres de l’équipe, le Scrum Master, ainsi que les clients, utilisateurs, parties prenantes, experts, décideurs, et toute autre personne intéressée. C'est une activité d’inspection et d’adaptation pour le produit.
+5. *Sprint Retrospective* : Séance rétrospective pour l'amélioration des pratiques de l'équipe. Permet d’inspecter et d’adapter le processus et l’environnement. C’est l’opportunité pour l’équipe d’échanger sur ce qui fonctionne bien et sur ce qui ne fonctionne pas, et de s’accorder sur des changements à expérimenter. Peut prendre de nombreux formats, y compris "célébrer" (petite fête, repas).
 
 ### Artefacts (Scrum Artifacts)
 
