@@ -46,4 +46,4 @@ Formats pour décider quoi faire
 
 - "+/Delta" : format pour identifier les points forts et les améliorations. Permet d'obtenir le feedback sur la manière dont la session rétrospective a été menée. Utilisable pour un cours.
 - Appréciations: indiquer que vous avez apprécié les contributions des autres.
-- Temperature reading: les participants peuvent librement contribuer à l'une des cinq sections: Appreciations, Puzzles, New Information, Complaints with recommendations, Hopes and Wishes.
+- Temperature reading: les participants peuvent librement contribuer à l'une des cinq sections: Appreciations, Puzzles, New Information, Complaints with recommendations, Hopes and Wishes. [Lien vers modèle FigJam](https://www.figma.com/file/YvlsYCnzW6uA3Fpq7B7sxv/Temperature-Reading?node-id=0%3A1).

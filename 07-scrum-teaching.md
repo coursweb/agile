@@ -25,13 +25,19 @@ Une durée de sprint doit être définie. Sur un semestre moyen de 18 semaines, 
 
 Evidemment, il est permis de s'accorder des pauses entre les sprints.
 
-Pendant la séance de *Sprint Planning*, le groupe définit les objectifs. La *Product Owner* aura réfléchi aux besoins des élèves, et rédigé une liste de mesures possibles (Product Backlog). Il pourrait s'agir par exemple:
+Pendant la séance de *Sprint Planning*, le groupe définit les objectifs. La *Product Owner* aura réfléchi aux besoins des élèves, et rédigé une liste de mesures possibles (Product Backlog). Quelques exemples:
 
-- De planifier des visites de classe.
-- De préparer ensemble une séquence pédagogique.
-- De préparer ensemble un brief.
-- De préparer ensemble une évaluation.
-- De collaborer sur un support de cours.
+- Planifier des visites de classe mutuelles.
+- Préparer ensemble une séquence pédagogique.
+- Préparer ensemble un brief.
+- Préparer ensemble une évaluation.
+- Collaborer sur un support de cours.
+- Développer une manière d'évaluer l'effet de son enseignement sur l'apprentissage des élèves.
+- Déterminer le niveau de progression de chaque élève.
+- Travailler sur la rétroaction (feedback). Voir Hattie (2017, 198).
+- Travailler sur la motivation des élèves (voir *[The Motivated Classroom Podcast](https://www.liamprinter.com/podcast.html)*).
+- Sélectionnez trois élèves qui ne semblent "pas comprendre" dans une matière que vous enseignez. Dressez un profil des "processus du soi". Élaborez une intervention, puis monitorez l'impact sur les élèves et leur apprentissage (Hattie 2017, 97).
+- Administrez la grille d'évaluation de l'enseignement d'Irving à vos élèves. Elaborez des stratégies pour améliorer la perception des élèves quant à votre engagement envers leur apprentissage, l'efficacité de votre engagement, le niveau d'engagement des élèves envers le programme et la façon dont vous reliez l'apprentissage au monde réel (Hattie 2017, 213).
 
 La Product Owner peut proposer des mesures, mais le choix définitif est du ressort de l'équipe entière.
 
@@ -43,3 +49,7 @@ Conseil: pour que l'investissement en temps soit équitable, il est sans doute s
 
 - *Sprint Review* : Séance de démonstration du résultat. À cette réunion, on pourra inviter les "clients", c'est à dire des élèves (délégué-es de classe), ainsi que d'autres parties prenantes: doyen-ne, maîtres-se principale, autres collègues intéressé-es par le format. Cette séance vise à évaluer objectivement le résultat du sprint, c'est à dire évaluer les impacts obtenus sur l'apprentissage (amener de la valeur aux élèves).
 - *Sprint Retrospective* : séance rétrospective pour l'amélioration des pratiques de l'équipe. Permet d’inspecter et d’adapter le processus et l’environnement. C’est l’opportunité pour l’équipe d’échanger sur ce qui fonctionne bien et sur ce qui ne fonctionne pas, et de s’accorder sur des changements à expérimenter. Peut prendre de nombreux formats, y compris "célébrer" (petite fête, repas).
+
+## Références
+
+John Hattie (2017). *L'apprentissage visible pour les enseignants*. Presses de l'Université du Québec.
