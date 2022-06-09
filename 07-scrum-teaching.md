@@ -36,7 +36,7 @@ Pendant la séance de *Sprint Planning*, le groupe définit les objectifs. La *P
 - Déterminer le niveau de progression de chaque élève.
 - Travailler sur la rétroaction (feedback). Voir Hattie (2017, 198).
 - Travailler sur la motivation des élèves (voir *[The Motivated Classroom Podcast](https://www.liamprinter.com/podcast.html)*).
-- Sélectionnez trois élèves qui ne semblent "pas comprendre" dans une matière que vous enseignez. Dressez un profil des "processus du soi". Élaborez une intervention, puis monitorez l'impact sur les élèves et leur apprentissage (Hattie 2017, 97).
+- Sélectionnez trois élèves qui ne semblent "pas comprendre" dans une matière que vous enseignez. Dressez un profil des "processus du soi" (Hattie 2017, 57). Élaborez une intervention, puis monitorez l'impact sur les élèves et leur apprentissage (Hattie 2017, 97).
 - Administrez la grille d'évaluation de l'enseignement d'Irving à vos élèves. Elaborez des stratégies pour améliorer la perception des élèves quant à votre engagement envers leur apprentissage, l'efficacité de votre engagement, le niveau d'engagement des élèves envers le programme et la façon dont vous reliez l'apprentissage au monde réel (Hattie 2017, 213).
 
 La Product Owner peut proposer des mesures, mais le choix définitif est du ressort de l'équipe entière.
@@ -52,4 +52,4 @@ Conseil: pour que l'investissement en temps soit équitable, il est sans doute s
 
 ## Références
 
-John Hattie (2017). *L'apprentissage visible pour les enseignants*. Presses de l'Université du Québec.
+John Hattie (2017). *L'apprentissage visible pour les enseignants*. Presses de l'Université du Québec. (Cote bibliothèque: HAT 371).
