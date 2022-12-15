@@ -4,7 +4,7 @@ title: Scrum pour un groupe d'enseignant-es
 permalink: scrum-enseignants.html
 ---
 
-Un groupe d'enseignant·e·x·s (de 3 à 10) décide de collaborer en mode Scrum. Ils forment un "Scrum Team", et doivent désigner les rôles spéciaux de Product Owner et Scrum Master.
+Un groupe d'enseignant·e·x·s (de 3 à 10) décide de collaborer en mode Scrum. Iels forment un "Scrum Team", et doivent désigner les rôles spéciaux de Product Owner et Scrum Master.
 
 **Le client:** les élèves.  
 **Le produit:** l'aprentissage des élèves. L'objectif de l'équipe Scrum est d'apporter de la valeur au client en maximisant les apprentissages effecutés.
@@ -13,7 +13,7 @@ Un groupe d'enseignant·e·x·s (de 3 à 10) décide de collaborer en mode Scrum
 
 Les deux rôles spéciaux de Scrum devront être attribués: 
 
-- **Product Owner**: enseignant·e qui "représente les élèves". Va analyser les besoins des élèves et établir une liste de mesures possibles (Product Backlog). Devra toujours veiller à ce que l'intérêt des élèves soit pris en compte.
+- **Product Owner**: enseignant·e qui "représente les élèves" (les clients). Va analyser les besoins des élèves et établir une liste de mesures possibles (Product Backlog). Devra toujours veiller à ce que l'intérêt des élèves soit pris en compte.
 - **Scrum Master**: enseignant·e qui veille à l'application du processus. A pour tâche d'organiser les rendez-vous, et de soutenir l'équipe (motiver, coacher, protéger le temps des membres du Team).
 
 ## Déroulement
