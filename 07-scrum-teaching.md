@@ -43,7 +43,7 @@ La Product Owner peut proposer des mesures, mais le choix définitif est du ress
 
 ## Événements
 
-Le rôle de la Scrum Master sera en grande partie de vieller à ménager des rencontres régulières entre les membres de l'équipe, pour assurer le succès du sprint. Idéalement un "weekly scrum" pourra se tenir pendant une pause café. En fonction de l'horaire des enseignant·es, il ne sera peut-être pas possible de se voir sur place. La Scrum Master devra dans ce cas agender des rencontres téléphoniques, ou un verre en fin de journée.
+Le rôle de la Scrum Master sera en grande partie d'organiser des rencontres régulières entre les membres de l'équipe, pour assurer le succès du sprint. Un "weekly scrum" pourra se tenir pendant une pause café. En fonction de l'horaire des enseignant·es, il ne sera peut-être pas possible de se voir sur place. La Scrum Master devra dans ce cas agender des rencontres téléphoniques, par visioconférence, ou un verre en fin de journée.
 
 Conseil: pour que l'investissement en temps soit équitable, il est sage de constituer une équipe avec des enseignant·es qui ont un taux horaire équivalent.
 
