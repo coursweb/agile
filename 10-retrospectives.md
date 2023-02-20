@@ -31,7 +31,7 @@ Les auteurs précisent que dans l'activité d'ouverture, il est essentiel que *c
 
 - **Check-in** : une question simple, préparée par la "retrospective leader". Chaque participant-e répond. (5-10 minutes)
 - **E.S.V.P.** : sondage anonyme pour déterminer la motivation - êtes vous ici en tant que **E**xplorer, **S**hopper, **V**acationer, **P**risoner? On discute de ce que signifient les résultats. (10-15 minutes)
-- **Working Agreemnts** : générer des idées, puis choisir 5 à 7 "agreements". (10-30 minutes)
+- **Working Agreements** : générer des idées, puis choisir 5 à 7 "agreements". (10-30 minutes)
 
 ### Formats de récolte de données (gather data)
 
