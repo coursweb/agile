@@ -44,7 +44,7 @@ Les auteurs précisent que dans l'activité d'ouverture, il est essentiel que *c
 
 - **Five Whys** : en paires où en petits groupes, ont s'interroge: pourquoi cet événement ou problème s'est produit? On note les réponses qui viennent après le 4ème, 5ème "pourquoi". (12-50 minutes)
 - **Brainstorming / Filtering** : produire environ 50 idées, et marquer les idées qui passes les quatre filtres sélectionnés. (40-60 minutes)
-- **Force Field Analysis** : examine quels factreurs dans l'organisation: soutiennent le changement / empêchent le changement. (45-60 minutes)
+- **Force Field Analysis** : examine quels facteurs dans l'organisation: soutiennent le changement / empêchent le changement. (45-60 minutes)
 - Identify Themes. (1-2 heures)
 - Prioritize with Dots. (5-20 minutes)
 - **Learning Matrix**: What did we do well / What would we like to change / What new ideas have come up / Who do we want to appreciate ?
@@ -52,7 +52,7 @@ Les auteurs précisent que dans l'activité d'ouverture, il est essentiel que *c
 ### Formats pour décider quoi faire
 
 - **Cercle de questions**. Assis en cercle, on pose une question à la personne à sa gauche. Le cercle doit être parcouru au moins deux fois. (30+ minutes)
-- **SMART Goals*** : le groupe développe des objectifs SMART, et décrit 1 à 5 actions (action steps). 20-60 minutes.
+- **SMART Goals** : le groupe développe des objectifs SMART, et décrit 1 à 5 actions (action steps). 20-60 minutes.
 - **Retrospective Planning Game** (40-75 minutes):
     1. Générer toutes les tâches.
     2. Comparer, éliminer les doublons, compléter les trous.

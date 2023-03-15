@@ -61,4 +61,4 @@ Exemples de tableaux de gestion de projet
 
 ### Ressources Scrum
 
-- **The Scrum Guide** : [scrumguides.org](https://scrumguides.org/) - la source officielle écrite par Ken Schwaber et Jeff Sutherland, co-crétateurs de Scrum. On y trouve le "official Scrum Guide", aussi dans une traduction français. C'est un document de 15 pages, sous licence Creative Commons by‐sa.
+- **The Scrum Guide** : [scrumguides.org](https://scrumguides.org/) - la source officielle écrite par Ken Schwaber et Jeff Sutherland, co-crétateurs de Scrum. On y trouve le "official Scrum Guide", aussi dans une traduction en français. C'est un document de 15 pages, sous licence Creative Commons by‐sa.
