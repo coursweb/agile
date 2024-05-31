@@ -38,12 +38,12 @@ Les auteurs précisent que dans l'activité d'ouverture, il est essentiel que *c
 - **Timeline** : organiser les faits sur un tableau chronologique. (30-90 minutes)
 - **Triple Nickels** (un format de brainstorming) (30-60 minutes)
 - **Locate Strenghts** : interviews en binômes. (15-40 minutes)
-- **Mad Sad Glad** : noter sur trois posters des événements où indidents, qui vous ont fait sentir en colère, triste ou heureux. (20-30 minutes)
+- **Mad Sad Glad** : noter sur trois posters des événements où incidents, qui vous ont fait sentir en colère, triste ou heureux. (20-30 minutes)
 
 ### Formats pour l'interpréation des données (insights)
 
 - **Five Whys** : en paires où en petits groupes, ont s'interroge: pourquoi cet événement ou problème s'est produit? On note les réponses qui viennent après le 4ème, 5ème "pourquoi". (12-50 minutes)
-- **Brainstorming / Filtering** : produire environ 50 idées, et marquer les idées qui passes les quatre filtres sélectionnés. (40-60 minutes)
+- **Brainstorming / Filtering** : produire environ 50 idées, et marquer les idées qui passent les quatre filtres sélectionnés. (40-60 minutes)
 - **Force Field Analysis** : examine quels facteurs dans l'organisation: soutiennent le changement / empêchent le changement. (45-60 minutes)
 - Identify Themes. (1-2 heures)
 - Prioritize with Dots. (5-20 minutes)
