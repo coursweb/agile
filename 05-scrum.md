@@ -48,7 +48,7 @@ Les événements prescrits par Scrum:
 
 
 
-le produit : l'apprentissage des élèves (nos "clients")
+le produit : l'apprentissage des élèves (nos "clients")  
 Le but de l'équipe de profs: amener de la valeur
 
 ## Pratiques
